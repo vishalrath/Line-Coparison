@@ -1,0 +1,15 @@
+C:\Users\VISHAL\source\repos\Line_Comp_UC\Line_Comp_UC\bin\Debug\net5.0\Line_Comp_UC.exe
+C:\Users\VISHAL\source\repos\Line_Comp_UC\Line_Comp_UC\bin\Debug\net5.0\Line_Comp_UC.deps.json
+C:\Users\VISHAL\source\repos\Line_Comp_UC\Line_Comp_UC\bin\Debug\net5.0\Line_Comp_UC.runtimeconfig.json
+C:\Users\VISHAL\source\repos\Line_Comp_UC\Line_Comp_UC\bin\Debug\net5.0\Line_Comp_UC.runtimeconfig.dev.json
+C:\Users\VISHAL\source\repos\Line_Comp_UC\Line_Comp_UC\bin\Debug\net5.0\Line_Comp_UC.dll
+C:\Users\VISHAL\source\repos\Line_Comp_UC\Line_Comp_UC\bin\Debug\net5.0\ref\Line_Comp_UC.dll
+C:\Users\VISHAL\source\repos\Line_Comp_UC\Line_Comp_UC\bin\Debug\net5.0\Line_Comp_UC.pdb
+C:\Users\VISHAL\source\repos\Line_Comp_UC\Line_Comp_UC\obj\Debug\net5.0\Line_Comp_UC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VISHAL\source\repos\Line_Comp_UC\Line_Comp_UC\obj\Debug\net5.0\Line_Comp_UC.AssemblyInfoInputs.cache
+C:\Users\VISHAL\source\repos\Line_Comp_UC\Line_Comp_UC\obj\Debug\net5.0\Line_Comp_UC.AssemblyInfo.cs
+C:\Users\VISHAL\source\repos\Line_Comp_UC\Line_Comp_UC\obj\Debug\net5.0\Line_Comp_UC.csproj.CoreCompileInputs.cache
+C:\Users\VISHAL\source\repos\Line_Comp_UC\Line_Comp_UC\obj\Debug\net5.0\Line_Comp_UC.dll
+C:\Users\VISHAL\source\repos\Line_Comp_UC\Line_Comp_UC\obj\Debug\net5.0\ref\Line_Comp_UC.dll
+C:\Users\VISHAL\source\repos\Line_Comp_UC\Line_Comp_UC\obj\Debug\net5.0\Line_Comp_UC.pdb
+C:\Users\VISHAL\source\repos\Line_Comp_UC\Line_Comp_UC\obj\Debug\net5.0\Line_Comp_UC.genruntimeconfig.cache
